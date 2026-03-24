@@ -10,3 +10,4 @@ print("202303468 장재혁")
 print("TaeminKim_PR")
 
 print(" 1차요청 ");
+print(" 2차요청 ");
